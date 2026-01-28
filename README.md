@@ -227,7 +227,7 @@ The portfolio uses a sophisticated dark theme with gradient accents:
 Add these meta tags to `<head>` in `index.html`:
 
 ```html
-<meta name="description" content="Hariom Prasad - Pharmacoinformatics Specialist & Data Analytics Expert">
+<meta name="description" content="Hariom Prasad - Pharmacoinformatics Specialist & Data Analytics">
 <meta name="keywords" content="Pharmacoinformatics, Data Analytics, Machine Learning, Drug Discovery, Bioinformatics">
 <meta name="author" content="Hariom Prasad">
 
@@ -294,9 +294,9 @@ Feel free to fork this repository and customize it for your own use!
 ## 📞 Support
 
 For questions or issues:
-- Email: hariom.prasad@example.com
-- LinkedIn: [Your Profile]
-- GitHub: [Your Profile]
+- Email: phariom.niper2024@gmail.com
+- LinkedIn: [Hariom Prasad](https://www.linkedin.com/in/phariom2024niper/)
+- GitHub: [Hariom Prasad](https://github.com/hariompr143/)
 
 ---
 
