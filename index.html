@@ -569,6 +569,21 @@
                             <textarea id="message" name="message" rows="5" required></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary">Send Message</button>
+                        <form
+                            action="https://formspree.io/f/mjgwqgdd"
+                            method="POST"
+                        >
+                            <label>
+                            Your email:
+                            <input type="email" name="email">
+                            </label>
+                            <label>
+                            Your message:
+                            <textarea name="message"></textarea>
+                            </label>
+                            <!-- your other form fields go here -->
+                            <button type="submit">Send</button>
+                        </form>
                     </form>
                 </div>
             </div>
