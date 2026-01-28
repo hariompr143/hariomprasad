@@ -1,4 +1,4 @@
-# Hariom Prasad - Portfolio `https://hariomprasad.dev/`
+# [Hariom Prasad - Portfolio](https://hariomprasad.dev/)
 
 A modern, responsive portfolio website showcasing expertise in Pharmacoinformatics and Data Analytics.
 
